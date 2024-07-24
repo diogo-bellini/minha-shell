@@ -1,8 +1,6 @@
 /*
-Autores:
-    - Diogo Conforti Vaz Bellini 823829
-    - João Paulo Morais Rangel 820827
-
+Autore:
+    - Diogo Conforti Vaz Bellini 
 Objetivo:
     Criação de uma shell simplificada
 */
